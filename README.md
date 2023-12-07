@@ -1,2 +1,0 @@
-# branches
-Uso de git
